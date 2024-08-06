@@ -3,7 +3,10 @@
 Aplicacao de técnicas que busca extrair, transformar e predizer os dados relacianos ao valores de laptops
 
 ## Técnicas
-
+* Label encoder
+* Standard scaler
+* Correlation
+* Delete outliers
 
 ## Bibliotecas
 * Pandas
